@@ -6,8 +6,8 @@ Questo è il Custom Firmware myevic.
 
 #### Funzioni principali:
 L'interfaccia utente del firmware myevic non è molto diversa da quella del firmware ufficiale.
-Sono state aggiunte molte altre funzioni tramite i menù di sistema. 
-Pertanto vi invitiamo a leggere la seguente documentazione.
+In aggiunta sono disponibili nuove funzionalità, accessibili dal menù di sistema. 
+La presente documentazione ne illustra l'uso in dettaglio, pertanto l'utente è invitato a leggerla.
 
 
 ## Indice
